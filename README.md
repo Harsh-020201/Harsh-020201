@@ -120,8 +120,10 @@ Real-time, location-aware weather app with geolocation auto-detect and cached AP
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Harsh-020201&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=Harsh-020201&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 </div>
+
+<sub>Served from a community mirror — the main github-profile-trophy.vercel.app endpoint is frequently rate-limited. If this mirror ever goes down too, swap in another from the list in the setup notes below.</sub>
 
 ---
 
