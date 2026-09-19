@@ -20,7 +20,7 @@ I'm a final-year **B.Tech Computer Science (AI/ML)** student at **JSS Academy of
 
 - 🔭 Currently building **PrepAI**, an AI interview-prep platform on the MERN stack with OpenAI APIs
 - 🧠 Focus areas: applied **NLP**, recommendation & scoring systems, healthcare tech
-- 🧩 Sharpening Data Structures & Algorithms in **C++** — 97 problems solved on LeetCode (live stats below)
+- 🧩 Sharpening Data Structures & Algorithms in **C++** —  problems solved on LeetCode (live stats below)
 - 💼 **Open to SDE / AI-ML internship opportunities** for the 2027 batch
 - ⚡ Outside code: debate, declamation, and basketball — still competitive about all three
 
